@@ -25,7 +25,7 @@ export default function FeedbackForm() {
         data-netlify-honeypot="bot-field"
         name="feedback"
       >  
-        <label htmlFor="name">Name</label>
+        <label htmlFor="name">Password</label>
         <input id="name" className={styles['form-field']} value={playerGuess} onChange={(e)=> {setPlayerGuess(e.target.value)}} type="text" name="name" />
         <button className={styles.button} type="button" onClick={generatePasscode}>Crack the code</button>
 
