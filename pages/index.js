@@ -17,6 +17,8 @@ export default function Home() {
         <p className="description">
           Unscramble the clues and put in the password.
           <br /><br />
+          The password is not case sensitive.
+          <br /><br />
           Warning agent, inputting an incorrect password will still give you a passcode.
         </p>
         <FeedbackForm />
