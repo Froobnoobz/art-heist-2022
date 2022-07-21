@@ -2,11 +2,6 @@ import { useEffect, useState } from 'react';
 import styles from './FeedbackForm.module.css'
 import * as sha256 from 'sha256';
 
-const tester = () => {
-  console.log('ahhhh');
-};
-
-
 export default function FeedbackForm() {
   const [playerGuess, setPlayerGuess] = useState('');
   const [passCode, setPassCode] = useState(null);

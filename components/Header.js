@@ -8,6 +8,18 @@ export default function Header({ title }) {
         Each of our agents who have been caught have left their individual clues as a fail safe around the casino.
         If you manage to find them all, crack the clue and find the password to crack the Mona Yanir vault.
       </p>
+
+      Here are the clues agent.
+      <ul>
+        <li>The little green man shows you the way.</li>
+        <li>Secondly, I require aid.</li>
+        <li>1 I love animals (fur), with the right attachment of course. - 2 You can change my head to help cater to any need, 3 - sometimes I get so full, I just stop sucking to suck</li>
+        <li>I keep you hydrated, like a boss.</li>
+        <li>Smashing this table is allowed. Eating on it, is not.</li>
+        <li>Take a nap here, it's been a ruff day.</li>
+        <li>What I drink, it rhymes with pink, can you find ths missing link?</li>
+        <li>This doctor prescribes you a black morning potion.</li>
+      </ul>
     </>
   );
 }
