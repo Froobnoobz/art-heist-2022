@@ -24,7 +24,7 @@ export default function Home() {
           <br /><br />
           The password is not case sensitive.
           <br /><br />
-          Warning agent, inputting an incorrect password will still give you a passcode. 
+          Beware agent, inputting an incorrect password will still give you a combination for the safe! 
           So if you think you're right, approach the safe and try your luck.
           <br /><br />
           You're our best hope, good luck out there.
