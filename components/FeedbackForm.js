@@ -9,7 +9,7 @@ export default function FeedbackForm() {
   const generatePasscode = () => {
     const shaEncoded = sha256(playerGuess.toLowerCase());
     const numbers = shaEncoded.replace(/\D/g,'').substring(0, 3);
-    console.log(numbers);
+    console.log(`as you can see it's just a hashed word with the first 3 numbers from sha256, my cyber sec minor finally paid off`);
     setPassCode(numbers);
   }
 
