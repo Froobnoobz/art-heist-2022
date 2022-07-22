@@ -13,12 +13,7 @@ export default function Header({ title }) {
       <ul>
         <li>The little green man shows you the way.</li>
         <li>Secondly, I require aid.</li>
-        <ul>
-          <li>I love animals (fur), with the right attachment of course.</li>
-          <li>You can change my head to help cater to any need</li>
-          <li>sometimes I get so full, I just stop sucking to suck</li>
-          <li>You say I suck, you let me hang around because I always help clean up</li>
-        </ul>
+        <li>I love animals (fur), with the right attachment of course.</li>
         <li>I keep you hydrated, like a boss.</li>
         <li>Smashing this table is allowed. Eating on it, is not.</li>
         <li>Take a nap here, it's been a ruff day.</li>
