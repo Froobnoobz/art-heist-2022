@@ -25,6 +25,8 @@ export default function FeedbackForm() {
         <button className={styles.button} type="button" onClick={generatePasscode}>Crack the code</button>
 
       <h2>{passCode}</h2>
+      <br /><br/>
+      <b>If you crack the vault, please keep the lock and find either Ben Perram or Pauline to confirm your win.</b>
       </form>
   )
 }
