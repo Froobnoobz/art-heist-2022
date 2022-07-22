@@ -28,6 +28,8 @@ export default function Home() {
           So if you think you're right, approach the safe and try your luck.
           <br /><br />
           You're our best hope, good luck out there.
+          <br /><br />
+          <b>It is very dark here, please use your torch to find the clues</b>
         </p>
         <FeedbackForm />
       </main>
